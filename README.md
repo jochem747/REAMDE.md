@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jochem
+- 👀 I’m interested in everything related to Sysadmin, InfoSec, Technology, IoT, hobby electronic.
+- 🌱 I’m currently learning Amateur Radio! 
